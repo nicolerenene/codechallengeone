@@ -1,0 +1,14 @@
+nav {
+    display: flex;
+    background-color: blue;
+    justify-content: space-between;
+}
+
+a {
+    color: cyan;
+}
+
+.Content {
+    font-size: 14px;
+    font-style: italic;
+}
